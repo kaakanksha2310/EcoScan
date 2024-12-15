@@ -1,0 +1,8 @@
+# dataset.yaml
+path: ./data # Path to the dataset folder
+train: train/images # Training images directory
+val: valid/images # Validation images directory
+
+# Number of classes and class names
+nc: 7 # Replace with the actual number of classes
+names: ["class0", "class1", "class2", "class3", "class4", "class5", "class6"] # Replace with actual class names
